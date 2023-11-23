@@ -4,18 +4,23 @@ about: Modelo de Plano de Trabalho Individual. Utilize este modelo como guia par
   planejar e documentar objetivos, atividades, recursos, prazos e outros aspectos
   essenciais do seu trabalho.
 title: Plano Individual de Trabalho
-labels: ''
+labels: Planos de Trabalho
 assignees: ''
 
 ---
 
-Este modelo visa orientar a elaboração de plano de trabalho para resolver problemas críticos em projetos. Preencha cada seção com detalhes específicos para garantir clareza e consistência na equipe.
+[Este modelo visa orientar a elaboração de plano de trabalho para resolver problemas críticos em projetos. Preencha cada seção com detalhes específicos para garantir clareza e consistência na equipe.]
 
 # Pesquisador
 [Use o @ para associar o nome de seu usuário no plano]
 
 # Problema Crítico
-Descreva de forma concisa e específica o "Problema Crítico" que pretende resolver. Enfatize qual será a solução e qual a sua relevância para o projeto, conectando-a diretamente a uma das metas do plano de trabalho. Evite generalidades e concentre-se em aspectos mensuráveis e, quando possível, dados ou evidências que fundamentem a importância e relevância da solução para o sucesso do projeto.
+[Descreva de forma concisa e específica o "Problema Crítico" que pretende resolver. Enfatize qual será a solução e qual a sua relevância para o projeto, conectando-a diretamente a uma das metas do plano de trabalho. Evite generalidades e concentre-se em aspectos mensuráveis e, quando possível, dados ou evidências que fundamentem a importância e relevância da solução para o sucesso do projeto.]
+
+# Meta do Plano de Trabalho
+
+[Defina a meta do [Plano de Trabalho do Termo de Execução Descentralizada](https://dsbr.org/wp-content/uploads/2023/09/Plano-de-Trabalho-do-Projeto.pdf) que pretende associar o seu plano de trabalho individual]
+
 # Como pretende resolver o problema
 [Apresente de maneira concisa a estratégia planejada para abordar o problema crítico identificado na tarefa]
 
@@ -31,13 +36,15 @@ Descreva de forma concisa e específica o "Problema Crítico" que pretende resol
 
 # Entregáveis do Plano de Trabalho
 
-[Altere a descrição dos entregáveis do Plano de trabalho, apresentados aqui como exemplos, que serão apresentados ao financiador do projeto]
+[Altere a descrição dos entregáveis do Plano de trabalho, apresentados aqui como exemplos, descrevendo o objeto e a forma em que serão apresentados ao financiador do projeto]
 
-- [ ] 📝 Aperfeiçoamento dos dados do modelo semântico de pessoal da Plataforma Nilo Peçanha
-- [ ] 🖨️ Fluxo de Dados de matrículas equivalentes disponível no Power BI Serviços
-- [ ] 📊 Nova página de visualização de dados orçamentários
-- [ ] 🔖 Catálogo integrado de dados de indicadores acadêmicos da plataforma Nilo Peçanha
+- [ ] 📝 Aperfeiçoamento do modelo semântico de pessoal implantado da Plataforma Nilo Peçanha
+- [ ] 📈 Domínio de dados orçamentários como produtos validado com a Setec.
+- [ ] 🖨️ Fluxo de Dados de matrículas equivalentes em funcionamento na Plataforma Power BI Serviço
+- [ ] 📊 Nova página de visualização de dados orçamentários em produção na Plataforma Nilo Peçanha
+- [ ] 🔖 Catálogo integrado de dados de indicadores acadêmicos disponibilizado na página da PNP
 - [ ] 📢 Referencial metodológico para estruturação de domínio de dados de obras da Rede Federal
+
 
 # Observações Adicionais
 [Inclua informações adicionais pertinentes para a compreensão e execução]
@@ -53,7 +60,7 @@ Descreva de forma concisa e específica o "Problema Crítico" que pretende resol
 # Organização do Trabalho
 
 ## Frequência de reuniões de atualização
-Estabeleça a frequência de reuniões de atualização sobre o progresso do plano de trabalho, com sugestão de dia e horário]
+[Estabeleça a frequência de reuniões de atualização sobre o progresso do plano de trabalho, com sugestão de dia e horário]
 
 ## Data de Início
 [Indique a data prevista para o início do plano]
