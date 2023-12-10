@@ -1,8 +1,8 @@
 ---
-name: Contratações
+name: "\U0001F91D Contratações"
 about: Modelo de Plano de Trabalho para contratações
-title: Contratação de [Insira o serviço a ser contratado]
-labels: ''
+title: "[\U0001F91DContratação] Insira o serviço a ser contratado"
+labels: Contratações
 assignees: ''
 
 ---

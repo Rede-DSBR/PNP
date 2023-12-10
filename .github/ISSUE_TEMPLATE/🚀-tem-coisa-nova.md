@@ -1,7 +1,7 @@
 ---
-name: Funcionalidade ou Aprimoramento
+name: "\U0001F680 Tem coisa nova"
 about: Desenvolva uma nova funcionalidade ou aprimoramento
-title: ''
+title: "[\U0001F680 Tem coisa nova]"
 labels: Aprimoramento
 assignees: ''
 

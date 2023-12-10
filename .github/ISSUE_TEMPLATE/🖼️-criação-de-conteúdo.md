@@ -1,5 +1,5 @@
 ---
-name: Criação de Conteúdo
+name: "\U0001F5BC️ Criação de Conteúdo"
 about: Crie um conteúdo de Design & Comunicação
 title: "[\U0001F5BC️ Conteúdo]"
 labels: Design & Comunicação

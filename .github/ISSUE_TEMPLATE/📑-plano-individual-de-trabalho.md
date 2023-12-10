@@ -1,15 +1,15 @@
 ---
-name: Plano Individual de Trabalho
+name: "\U0001F4D1 Plano Individual de Trabalho"
 about: Modelo de Plano de Trabalho Individual. Utilize este modelo como guia para
   planejar e documentar objetivos, atividades, recursos, prazos e outros aspectos
   essenciais do seu trabalho.
-title: Plano Individual de Trabalho
+title: "[\U0001F4D1 PIT]"
 labels: Planos de Trabalho
 assignees: ''
 
 ---
 
-[Este modelo visa orientar a elaboração de plano de trabalho para resolver problemas críticos em projetos. Preencha cada seção com detalhes específicos para garantir clareza e consistência na equipe.]
+[Este modelo visa orientar a elaboração de plano individual de trabalho (📑 PIT) para resolver problemas críticos em projetos. Preencha cada seção com detalhes específicos para garantir clareza e consistência na equipe.]
 
 # Pesquisador
 [Use o @ para associar o nome de seu usuário no plano]
