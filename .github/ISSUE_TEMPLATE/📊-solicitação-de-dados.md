@@ -7,8 +7,11 @@ assignees: ''
 
 ---
 
+## 🙋‍♂️ Solicitante
+[Informe o nome solicitante, e-mail e setor de lotação]
+
 ## 📝 Descrição da Solicitação
-[Descreva objetivamente a solicitação de dados, forneça informações sobre o contexto da solicitação, como o propósito dos dados, a relevância para seu objetivo, entre outros.]
+[Descreva objetivamente a solicitação de dados, forneça informações sobre a forma e o contexto da solicitação, como o propósito dos dados, a relevância para seu objetivo, entre outros.]
 
 ## 💻 Formas de Utilização
 [Edite esta seção para indicar como os dados serão utilizados. Os exemplos abaixo são sugestões e podem ser alterados conforme a necessidade.]
@@ -38,5 +41,5 @@ Outros (especifique): ______________________________
 ## ℹ️ Informações Adicionais
 [Inclua outras informações relevantes para a compreensão e atendimento da solicitação.]
 
-## 📅 Data de Abertura
+## 📅 Data de Solicitação
 [Inserir data de abertura da solicitação.]
