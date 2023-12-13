@@ -1,7 +1,7 @@
 ---
 name: "\U0001F6E0️ Manutenção de erros"
 about: Abra uma demanda para manutenção corretiva.
-title: "[\U0001F6E0️ Erro] "
+title: "[\U0001F6E0️ Erro]"
 labels: Erro
 assignees: ''
 
