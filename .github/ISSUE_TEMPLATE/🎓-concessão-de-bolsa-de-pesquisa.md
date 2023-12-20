@@ -1,6 +1,6 @@
 ---
 name: "\U0001F393 Concessão de Bolsa de Pesquisa"
-about: Describe this issue template's purpose here.
+about: Modelo de Documentação sobre a concessão de Bolsas de Pesquisa
 title: "\U0001F393 Bolsa de Pesquisa"
 labels: Bolsas de Pesquisa
 assignees: ''
@@ -16,13 +16,26 @@ assignees: ''
 |------------------|-------------------------------------|-------------------|
 | [Modalidade]     | [Definir Atividades no Plano]       | [Valor Mensal]    |
 
+# ⚖️ Previsão Legal para Concessão da Bolsa
+
+Esta seção detalha as bases legais e regulamentações que embasam a concessão da bolsa de pesquisa. É importante assegurar que todas as atividades e procedimentos estejam em conformidade com as leis e normativas vigentes.
+
+| Documento Legal ou Normativa | Descrição | Link de Acesso |
+|------------------------------|-----------|----------------|
+| [Nome do Documento Legal]    | [Breve Descrição do Documento e sua Relevância para a Concessão da Bolsa] | [URL do Documento] |
+| [Nome de Outra Normativa]    | [Breve Descrição da Normativa e como ela se aplica ao Projeto] | [URL da Normativa] |
+| [Legislação Específica]      | [Descrição da Legislação e como ela impacta na Concessão da Bolsa] | [URL da Legislação] |
+
+**Responsável pela Verificação Legal:** [Nome do(a) Responsável pela Verificação da Conformidade Legal]
+
+
 # 📅 Vigência da Bolsa
 
 | Data de Início | Data de Conclusão     |
 |----------------|-----------------------|
 | 01/03/2024     | [Definir no plano de trabalho] |
 
-# 🏢 Órgão Colegiado Acadêmico Competente _(Preencher)_
+# 🏛️ Órgão Colegiado Acadêmico Competente _(Preencher)_
 
 | Campo                    | Descrição |
 |--------------------------|-----------|
